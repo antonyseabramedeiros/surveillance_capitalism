@@ -1,0 +1,148 @@
+[13:41:03.165] HTTP(S) proxy listening at *:8080.
+[13:41:03.167] Web server listening at http://127.0.0.1:8081/
+[13:41:08.395][192.168.0.3:58648] client connect
+[13:41:08.405][192.168.0.3:58650] client connect
+[13:41:08.465][192.168.0.3:58650] server connect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:808::200a]:443)
+
+[13:41:08.716][192.168.0.3:58648] server connect accounts.google.com:443 ([2800:3f0:4003:c02::54]:443)
+[13:41:08.717][192.168.0.3:58666] client connect
+[13:41:08.754][192.168.0.3:58666] server connect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:41:09.072][192.168.0.3:58648] client disconnect
+[13:41:09.075][192.168.0.3:58648] server disconnect accounts.google.com:443 ([2800:3f0:4003:c02::54]:443)
+[13:41:09.193][192.168.0.3:58650] client disconnect
+[13:41:09.195][192.168.0.3:58650] server disconnect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:808::200a]:4
+43)
+[13:41:09.328][192.168.0.3:58666] client disconnect
+[13:41:09.332][192.168.0.3:58666] server disconnect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:41:09.441][192.168.0.3:58674] client connect
+[13:41:09.475][192.168.0.3:58678] client connect
+[13:41:09.490][192.168.0.3:58682] client connect
+[13:41:09.499][192.168.0.3:58674] server connect lh3.googleusercontent.com:443 ([2800:3f0:4004:80a::2001]:443)
+[13:41:09.512][192.168.0.3:58682] server connect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:41:09.524][192.168.0.3:58678] server connect www.gstatic.com:443 ([2800:3f0:4004:803::2003]:443)
+[13:41:09.555][192.168.0.3:58688] client connect
+[13:41:09.876][192.168.0.3:58688] server connect play.samsungcloud.com:443 (52.10.101.212:443)
+[13:41:10.307][192.168.0.3:58690] client connect
+[13:41:10.350][192.168.0.3:58690] server connect clients4.google.com:443 ([2800:3f0:4004:805::200e]:443)
+[13:41:10.395][192.168.0.3:58688] Client TLS handshake failed. The client does not trust the proxy's certificate for pla
+y.samsungcloud.com (OpenSSL Error([('SSL routines', '', 'sslv3 alert certificate unknown')]))
+[13:41:10.400][192.168.0.3:58688] client disconnect
+[13:41:10.401][192.168.0.3:58688] server disconnect play.samsungcloud.com:443 (52.10.101.212:443)
+[13:41:10.648][192.168.0.3:58696] client connect
+[13:41:10.702][192.168.0.3:58696] server connect adservice.google.com.br:443 ([2800:3f0:4004:80b::2002]:443)
+[13:41:10.884][192.168.0.3:58700] client connect
+[13:41:10.923][192.168.0.3:58700] server connect ad.doubleclick.net:443 (142.250.79.6:443)
+[13:41:12.613][192.168.0.3:58690] client disconnect
+[13:41:12.620][192.168.0.3:58696] client disconnect
+[13:41:12.624][192.168.0.3:58690] server disconnect clients4.google.com:443 ([2800:3f0:4004:805::200e]:443)
+[13:41:12.628][192.168.0.3:58682] client disconnect
+[13:41:12.635][192.168.0.3:58674] client disconnect
+[13:41:12.637][192.168.0.3:58700] client disconnect
+[13:41:12.639][192.168.0.3:58678] client disconnect
+[13:41:12.642][192.168.0.3:58696] server disconnect adservice.google.com.br:443 ([2800:3f0:4004:80b::2002]:443)
+[13:41:12.650][192.168.0.3:58682] server disconnect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:41:12.656][192.168.0.3:58674] server disconnect lh3.googleusercontent.com:443 ([2800:3f0:4004:80a::2001]:443)
+[13:41:12.658][192.168.0.3:58700] server disconnect ad.doubleclick.net:443 (142.250.79.6:443)
+[13:41:12.661][192.168.0.3:58678] server disconnect www.gstatic.com:443 ([2800:3f0:4004:803::2003]:443)
+[13:41:12.889][192.168.0.3:58716] client connect
+[13:41:12.913][192.168.0.3:58716] server connect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:41:14.674][192.168.0.3:58730] client connect
+[13:41:14.676][192.168.0.3:58734] client connect
+[13:41:14.729][192.168.0.3:58734] server connect encrypted-tbn0.gstatic.com:443 ([2800:3f0:4004:804::200e]:443)
+[13:41:14.734][192.168.0.3:58730] server connect encrypted-tbn0.gstatic.com:443 ([2800:3f0:4004:804::200e]:443)
+[13:41:14.881][192.168.0.3:58734] client disconnect
+[13:41:14.890][192.168.0.3:58734] server disconnect encrypted-tbn0.gstatic.com:443 ([2800:3f0:4004:804::200e]:443)
+[13:41:15.304][192.168.0.3:33556] client connect
+[13:41:15.350][192.168.0.3:33556] server connect lh5.googleusercontent.com:443 ([2800:3f0:4004:803::2001]:443)
+[13:41:18.127][192.168.0.3:33562] client connect
+[13:41:18.155][192.168.0.3:33562] server connect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:808::200a]:443)
+
+[13:41:22.288][192.168.0.3:33574] client connect
+[13:41:22.314][192.168.0.3:33574] server connect ad.doubleclick.net:443 (142.250.79.6:443)
+[13:41:23.171][192.168.0.3:33588] client connect
+[13:41:23.196][192.168.0.3:33588] server connect clients4.google.com:443 ([2800:3f0:4004:805::200e]:443)
+[13:41:26.018][192.168.0.3:38768] client connect
+[13:41:26.044][192.168.0.3:38768] server connect clients4.google.com:443 ([2800:3f0:4004:805::200e]:443)
+[13:42:08.719][192.168.0.3:48672] client connect
+[13:42:08.775][192.168.0.3:48672] server connect update.googleapis.com:443 ([2800:3f0:4004:80b::2003]:443)
+[13:42:17.623][192.168.0.3:41382] client connect
+[13:42:17.667][192.168.0.3:41382] server connect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:42:30.547][192.168.0.3:44648] client connect
+[13:42:30.615][192.168.0.3:44648] server connect play.google.com:443 ([2800:3f0:4004:809::200e]:443)
+[13:42:31.691][192.168.0.3:44654] client connect
+[13:42:31.719][192.168.0.3:44654] server connect www.gstatic.com:443 ([2800:3f0:4004:803::2003]:443)
+[13:42:31.884][192.168.0.3:44662] client connect
+[13:42:31.944][192.168.0.3:44662] server connect www.googleadservices.com:443 (142.251.129.66:443)
+[13:42:31.999][192.168.0.3:44672] client connect
+[13:42:32.155][192.168.0.3:44672] server connect id.google.com.br:443 ([2800:3f0:4004:803::2003]:443)
+[13:42:32.253][192.168.0.3:44676] client connect
+[13:42:32.347][192.168.0.3:44676] server connect www.googleadservices.com:443 (142.251.129.66:443)
+[13:42:33.973][192.168.0.3:44686] client connect
+[13:42:33.994][192.168.0.3:44692] client connect
+[13:42:34.081][192.168.0.3:44686] server connect cdn.ampproject.org:443 ([2800:3f0:4004:803::2001]:443)
+[13:42:34.084][192.168.0.3:44692] server connect cdn.ampproject.org:443 ([2800:3f0:4004:803::2001]:443)
+[13:42:34.422][192.168.0.3:44706] client connect
+[13:42:34.462][192.168.0.3:44706] server connect www.gstatic.com:443 ([2800:3f0:4004:803::2003]:443)
+[13:42:36.752][192.168.0.3:53228] client connect
+[13:42:36.799][192.168.0.3:53228] server connect adservice.google.com.br:443 ([2800:3f0:4004:80b::2002]:443)
+[13:45:03.956][192.168.0.3:54486] client connect
+[13:45:04.017][192.168.0.3:54486] server connect graph.facebook.com:443 ([2a03:2880:f091:19:face:b00c:0:2]:443)
+[13:45:04.191][192.168.0.3:54486] Client TLS handshake failed. The client does not trust the proxy's certificate for gra
+ph.facebook.com (OpenSSL Error([('SSL routines', '', 'sslv3 alert certificate unknown')]))
+[13:45:04.196][192.168.0.3:54486] client disconnect
+[13:45:04.201][192.168.0.3:54486] server disconnect graph.facebook.com:443 ([2a03:2880:f091:19:face:b00c:0:2]:443)
+[13:45:15.591][192.168.0.3:33556] [2800:3f0:4004:803::2001]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:45:15.595][192.168.0.3:33556] server disconnect lh5.googleusercontent.com:443 ([2800:3f0:4004:803::2001]:443)
+[13:45:22.549][192.168.0.3:33574] 142.250.79.6:443: HTTP/2 protocol error: Invalid input ConnectionInputs.RECV_PING in s
+tate ConnectionState.CLOSED
+[13:45:22.554][192.168.0.3:33574] server disconnect ad.doubleclick.net:443 (142.250.79.6:443)
+[13:45:26.734][192.168.0.3:33588] [2800:3f0:4004:805::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:45:26.737][192.168.0.3:33588] server disconnect clients4.google.com:443 ([2800:3f0:4004:805::200e]:443)
+[13:46:09.153][192.168.0.3:48672] [2800:3f0:4004:80b::2003]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:09.158][192.168.0.3:48672] server disconnect update.googleapis.com:443 ([2800:3f0:4004:80b::2003]:443)
+[13:46:17.964][192.168.0.3:41382] [2800:3f0:4004:806::2003]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:17.969][192.168.0.3:41382] server disconnect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:46:18.936][192.168.0.3:58730] [2800:3f0:4004:804::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:18.940][192.168.0.3:58730] server disconnect encrypted-tbn0.gstatic.com:443 ([2800:3f0:4004:804::200e]:443)
+[13:46:31.007][192.168.0.3:44648] [2800:3f0:4004:809::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:31.011][192.168.0.3:44648] server disconnect play.google.com:443 ([2800:3f0:4004:809::200e]:443)
+[13:46:32.169][192.168.0.3:44662] 142.251.129.66:443: HTTP/2 protocol error: Invalid input ConnectionInputs.RECV_PING in
+ state ConnectionState.CLOSED
+[13:46:32.174][192.168.0.3:44662] server disconnect www.googleadservices.com:443 (142.251.129.66:443)
+[13:46:32.492][192.168.0.3:44672] [2800:3f0:4004:803::2003]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:32.496][192.168.0.3:44672] server disconnect id.google.com.br:443 ([2800:3f0:4004:803::2003]:443)
+[13:46:32.612][192.168.0.3:44676] 142.251.129.66:443: HTTP/2 protocol error: Invalid input ConnectionInputs.RECV_PING in
+ state ConnectionState.CLOSED
+[13:46:32.616][192.168.0.3:44676] server disconnect www.googleadservices.com:443 (142.251.129.66:443)
+[13:46:32.922][192.168.0.3:44654] [2800:3f0:4004:803::2003]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:32.926][192.168.0.3:44654] server disconnect www.gstatic.com:443 ([2800:3f0:4004:803::2003]:443)
+[13:46:34.377][192.168.0.3:44692] [2800:3f0:4004:803::2001]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:34.382][192.168.0.3:44686] [2800:3f0:4004:803::2001]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:34.384][192.168.0.3:44692] server disconnect cdn.ampproject.org:443 ([2800:3f0:4004:803::2001]:443)
+[13:46:34.389][192.168.0.3:44686] server disconnect cdn.ampproject.org:443 ([2800:3f0:4004:803::2001]:443)
+[13:46:36.400][192.168.0.3:44706] [2800:3f0:4004:803::2003]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:36.405][192.168.0.3:44706] server disconnect www.gstatic.com:443 ([2800:3f0:4004:803::2003]:443)
+[13:46:37.070][192.168.0.3:53228] [2800:3f0:4004:80b::2002]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:37.075][192.168.0.3:53228] server disconnect adservice.google.com.br:443 ([2800:3f0:4004:80b::2002]:443)
+[13:46:37.160][192.168.0.3:33562] [2800:3f0:4004:808::200a]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:37.164][192.168.0.3:33562] server disconnect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:808::200a]:4
+43)
+[13:46:44.132][192.168.0.3:58716] [2800:3f0:4004:806::2003]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:44.137][192.168.0.3:58716] server disconnect www.google.com.br:443 ([2800:3f0:4004:806::2003]:443)
+[13:46:45.782][192.168.0.3:38768] [2800:3f0:4004:805::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:46:45.785][192.168.0.3:38768] server disconnect clients4.google.com:443 ([2800:3f0:4004:805::200e]:443)

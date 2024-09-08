@@ -1,0 +1,607 @@
+[13:24:28.524] HTTP(S) proxy listening at *:8080.
+[13:24:28.526] Web server listening at http://127.0.0.1:8081/
+[13:25:45.257][192.168.0.3:39654] client connect
+[13:25:45.313][192.168.0.3:39664] client connect
+[13:25:45.377][192.168.0.3:39664] server connect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:810::200a]:443)
+
+[13:25:45.381][192.168.0.3:39654] server connect accounts.google.com:443 ([2800:3f0:4003:c00::54]:443)
+[13:25:46.244][192.168.0.3:39666] client connect
+[13:25:46.262][192.168.0.3:39654] client disconnect
+[13:25:46.265][192.168.0.3:39664] client disconnect
+[13:25:46.266][192.168.0.3:39654] server disconnect accounts.google.com:443 ([2800:3f0:4003:c00::54]:443)
+[13:25:46.268][192.168.0.3:39664] server disconnect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:810::200a]:4
+43)
+[13:25:46.329][192.168.0.3:39666] server connect www.googleadservices.com:443 (142.251.135.98:443)
+[13:25:46.506][192.168.0.3:39666] Client TLS handshake failed. The client does not trust the proxy's certificate for www
+.googleadservices.com (OpenSSL Error([('SSL routines', '', 'sslv3 alert certificate unknown')]))
+[13:25:46.511][192.168.0.3:39666] client disconnect
+[13:25:46.516][192.168.0.3:39666] server disconnect www.googleadservices.com:443 (142.251.135.98:443)
+[13:25:46.706][192.168.0.3:39682] client connect
+[13:25:46.795][192.168.0.3:39686] client connect
+[13:25:46.803][192.168.0.3:39682] server connect shop.samsung.com:443 (104.104.158.58:443)
+[13:25:46.839][192.168.0.3:39690] client connect
+[13:25:46.901][192.168.0.3:39704] client connect
+[13:25:46.948][192.168.0.3:39686] server connect static.ads-twitter.com:443 (151.101.176.157:443)
+[13:25:46.968][192.168.0.3:39704] server connect www.samsung.com:443 (95.101.40.56:443)
+[13:25:47.085][192.168.0.3:39690] server connect smetrics.samsung.com:443 (63.140.38.132:443)
+[13:25:47.605][192.168.0.3:39720] client connect
+[13:25:47.642][192.168.0.3:39734] client connect
+[13:25:47.688][192.168.0.3:39720] server connect searchapi.samsung.com:443 (23.194.220.125:443)
+[13:25:47.797][192.168.0.3:39734] server connect api-recommender.bigdata.samsung.com:443 (108.139.182.22:443)
+[13:25:47.993][192.168.0.3:39742] client connect
+[13:25:48.042][192.168.0.3:39742] server connect www.google-analytics.com:443 ([2800:3f0:4004:802::200e]:443)
+[13:25:48.121][192.168.0.3:39758] client connect
+[13:25:48.179][192.168.0.3:39760] client connect
+[13:25:48.205][192.168.0.3:39758] server connect c.go-mpulse.net:443 ([2600:1419:4600:48a::11a6]:443)
+[13:25:48.236][192.168.0.3:39760] server connect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:25:48.293][192.168.0.3:39774] client connect
+[13:25:48.318][192.168.0.3:39788] client connect
+[13:25:48.349][192.168.0.3:39794] client connect
+[13:25:48.367][192.168.0.3:39774] server connect googleads.g.doubleclick.net:443 ([2800:3f0:4004:802::2002]:443)
+[13:25:48.402][192.168.0.3:39788] server connect td.doubleclick.net:443 ([2800:3f0:4004:808::2002]:443)
+[13:25:48.436][192.168.0.3:39806] client connect
+[13:25:48.561][192.168.0.3:39808] client connect
+[13:25:48.585][192.168.0.3:39806] server connect stats.g.doubleclick.net:443 ([2800:3f0:4003:c00::9b]:443)
+[13:25:48.630][192.168.0.3:39808] server connect event-tracking.samsung.com:443 ([2001:4860:4802:32::15]:443)
+[13:25:48.747][192.168.0.3:39794] server connect samsungrum.beusable.net:443 (13.209.172.100:443)
+[13:25:48.888][192.168.0.3:39816] client connect
+[13:25:48.893][192.168.0.3:39818] client connect
+[13:25:48.920][192.168.0.3:39816] server connect api-recommender.bigdata.samsung.com:443 (108.139.182.22:443)
+[13:25:49.207][192.168.0.3:39828] client connect
+[13:25:49.222][192.168.0.3:39818] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:49.239][192.168.0.3:39828] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:49.303][192.168.0.3:39828] Client TLS handshake failed. The client disconnected during the handshake. If this hap
+pens consistently for www.facebook.com, this may indicate that the client does not trust the proxy's certificate.
+[13:25:49.321][192.168.0.3:39828] client disconnect
+[13:25:49.328][192.168.0.3:39828] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:49.528][192.168.0.3:39842] client connect
+[13:25:49.580][192.168.0.3:39842] server connect www.google.com:443 ([2800:3f0:4004:810::2004]:443)
+[13:25:49.771][192.168.0.3:39848] client connect
+[13:25:49.802][192.168.0.3:39854] client connect
+[13:25:49.857][192.168.0.3:39848] server connect dc.ads.linkedin.com:443 ([2620:1ec:21::14]:443)
+[13:25:49.991][192.168.0.3:39864] client connect
+[13:25:50.012][192.168.0.3:39854] server connect samsungseda.api.useinsider.com:443 ([2606:4700:7::a29f:863d]:443)
+[13:25:50.051][192.168.0.3:39864] server connect www.google.com.br:443 ([2800:3f0:4004:80a::2003]:443)
+[13:25:50.188][192.168.0.3:39878] client connect
+[13:25:50.302][192.168.0.3:39878] server connect 17de4c17.akstat.io:443 ([2600:1419:4600:684::11a6]:443)
+[13:25:50.370][192.168.0.3:47642] client connect
+[13:25:50.376][192.168.0.3:47658] client connect
+[13:25:50.435][192.168.0.3:47642] server connect px4.ads.linkedin.com:443 (13.107.42.14:443)
+[13:25:50.442][192.168.0.3:47658] server connect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:50.640][192.168.0.3:47672] client connect
+[13:25:50.703][192.168.0.3:47672] server connect www.googletagmanager.com:443 ([2800:3f0:4004:810::2008]:443)
+[13:25:50.713][192.168.0.3:47674] client connect
+[13:25:50.737][192.168.0.3:47690] client connect
+[13:25:50.740][192.168.0.3:47702] client connect
+[13:25:50.751][192.168.0.3:47674] server connect adservice.google.com:443 ([2800:3f0:4004:806::2002]:443)
+[13:25:50.775][192.168.0.3:47690] server connect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:50.777][192.168.0.3:47702] server connect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:50.869][192.168.0.3:47706] client connect
+[13:25:50.883][192.168.0.3:47710] client connect
+[13:25:50.896][192.168.0.3:47724] client connect
+[13:25:50.899][192.168.0.3:47734] client connect
+[13:25:50.909][192.168.0.3:47742] client connect
+[13:25:50.918][192.168.0.3:47758] client connect
+[13:25:50.993][192.168.0.3:47724] server connect assets.adobedtm.com:443 ([2600:1419:4600:690::1e80]:443)
+[13:25:51.013][192.168.0.3:47710] server connect connect.facebook.net:443 ([2a03:2880:f091:18:face:b00c:0:3]:443)
+[13:25:51.056][192.168.0.3:39760] client disconnect
+[13:25:51.058][192.168.0.3:39760] server disconnect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:25:51.061][192.168.0.3:39806] client disconnect
+[13:25:51.062][192.168.0.3:39806] server disconnect stats.g.doubleclick.net:443 ([2800:3f0:4003:c00::9b]:443)
+[13:25:51.065][192.168.0.3:39808] client disconnect
+[13:25:51.079][192.168.0.3:47702] client disconnect
+[13:25:51.080][192.168.0.3:47642] client disconnect
+[13:25:51.081][192.168.0.3:39848] client disconnect
+[13:25:51.084][192.168.0.3:39808] server disconnect event-tracking.samsung.com:443 ([2001:4860:4802:32::15]:443)
+[13:25:51.088][192.168.0.3:47762] client connect
+[13:25:51.092][192.168.0.3:39774] client disconnect
+[13:25:51.094][192.168.0.3:39788] client disconnect
+[13:25:51.097][192.168.0.3:39842] client disconnect
+[13:25:51.102][192.168.0.3:47702] server disconnect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.103][192.168.0.3:47642] server disconnect px4.ads.linkedin.com:443 (13.107.42.14:443)
+[13:25:51.107][192.168.0.3:39848] server disconnect dc.ads.linkedin.com:443 ([2620:1ec:21::14]:443)
+[13:25:51.115][192.168.0.3:47706] server connect sslwidget.criteo.com:443 (74.119.119.150:443)
+[13:25:51.118][192.168.0.3:47658] client disconnect
+[13:25:51.119][192.168.0.3:39742] client disconnect
+[13:25:51.120][192.168.0.3:39682] client disconnect
+[13:25:51.123][192.168.0.3:39734] client disconnect
+[13:25:51.126][192.168.0.3:39686] client disconnect
+[13:25:51.129][192.168.0.3:39690] client disconnect
+[13:25:51.132][192.168.0.3:39720] client disconnect
+[13:25:51.135][192.168.0.3:39864] client disconnect
+[13:25:51.138][192.168.0.3:39816] client disconnect
+[13:25:51.141][192.168.0.3:39704] client disconnect
+[13:25:51.144][192.168.0.3:39758] client disconnect
+[13:25:51.148][192.168.0.3:39854] client disconnect
+[13:25:51.151][192.168.0.3:39818] client disconnect
+[13:25:51.154][192.168.0.3:39878] client disconnect
+[13:25:51.157][192.168.0.3:47690] client disconnect
+[13:25:51.163][192.168.0.3:47734] server connect gum.criteo.com:443 ([2620:100:a001::c]:443)
+[13:25:51.166][192.168.0.3:39774] server disconnect googleads.g.doubleclick.net:443 ([2800:3f0:4004:802::2002]:443)
+[13:25:51.167][192.168.0.3:39788] server disconnect td.doubleclick.net:443 ([2800:3f0:4004:808::2002]:443)
+[13:25:51.171][192.168.0.3:39842] server disconnect www.google.com:443 ([2800:3f0:4004:810::2004]:443)
+[13:25:51.182][192.168.0.3:47758] server connect typhoon.useinsider.com:443 ([2606:4700:7::a29f:853d]:443)
+[13:25:51.193][192.168.0.3:47742] server connect carrier.useinsider.com:443 ([2606:4700:7::a29f:853d]:443)
+[13:25:51.194][192.168.0.3:47658] server disconnect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.195][192.168.0.3:39742] server disconnect www.google-analytics.com:443 ([2800:3f0:4004:802::200e]:443)
+[13:25:51.197][192.168.0.3:39682] server disconnect shop.samsung.com:443 (104.104.158.58:443)
+[13:25:51.201][192.168.0.3:39734] server disconnect api-recommender.bigdata.samsung.com:443 (108.139.182.22:443)
+[13:25:51.204][192.168.0.3:39686] server disconnect static.ads-twitter.com:443 (151.101.176.157:443)
+[13:25:51.208][192.168.0.3:39690] server disconnect smetrics.samsung.com:443 (63.140.38.132:443)
+[13:25:51.211][192.168.0.3:39720] server disconnect searchapi.samsung.com:443 (23.194.220.125:443)
+[13:25:51.221][192.168.0.3:39864] server disconnect www.google.com.br:443 ([2800:3f0:4004:80a::2003]:443)
+[13:25:51.224][192.168.0.3:39816] server disconnect api-recommender.bigdata.samsung.com:443 (108.139.182.22:443)
+[13:25:51.228][192.168.0.3:39704] server disconnect www.samsung.com:443 (95.101.40.56:443)
+[13:25:51.231][192.168.0.3:39758] server disconnect c.go-mpulse.net:443 ([2600:1419:4600:48a::11a6]:443)
+[13:25:51.234][192.168.0.3:39854] server disconnect samsungseda.api.useinsider.com:443 ([2606:4700:7::a29f:863d]:443)
+[13:25:51.237][192.168.0.3:39818] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:51.241][192.168.0.3:39878] server disconnect 17de4c17.akstat.io:443 ([2600:1419:4600:684::11a6]:443)
+[13:25:51.244][192.168.0.3:47690] server disconnect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.266][192.168.0.3:47776] client connect
+[13:25:51.270][192.168.0.3:47778] client connect
+[13:25:51.276][192.168.0.3:47788] client connect
+[13:25:51.310][192.168.0.3:47776] server connect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.311][192.168.0.3:47788] server connect td.doubleclick.net:443 ([2800:3f0:4004:808::2002]:443)
+[13:25:51.348][192.168.0.3:47778] server connect 8712732.fls.doubleclick.net:443 (142.251.135.38:443)
+[13:25:51.366][192.168.0.3:47798] client connect
+[13:25:51.391][192.168.0.3:47762] server connect hit.api.useinsider.com:443 ([2606:4700:7::a29f:863d]:443)
+[13:25:51.461][192.168.0.3:47814] client connect
+[13:25:51.503][192.168.0.3:47798] server connect www.clarity.ms:443 ([2620:1ec:46::34]:443)
+[13:25:51.570][192.168.0.3:47822] client connect
+[13:25:51.577][192.168.0.3:47814] server connect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:25:51.675][192.168.0.3:47838] client connect
+[13:25:51.680][192.168.0.3:47844] client connect
+[13:25:51.685][192.168.0.3:47822] server connect prod-live-chat.sprinklr.com:443 (99.83.171.145:443)
+[13:25:51.715][192.168.0.3:47860] client connect
+[13:25:51.721][192.168.0.3:47862] client connect
+[13:25:51.746][192.168.0.3:47860] server connect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.748][192.168.0.3:47870] client connect
+[13:25:51.752][192.168.0.3:47862] server connect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.776][192.168.0.3:47880] client connect
+[13:25:51.778][192.168.0.3:47870] server connect adservice.google.com:443 ([2800:3f0:4004:806::2002]:443)
+[13:25:51.786][192.168.0.3:47888] client connect
+[13:25:51.813][192.168.0.3:47898] client connect
+[13:25:51.830][192.168.0.3:47912] client connect
+[13:25:51.849][192.168.0.3:47914] client connect
+[13:25:51.852][192.168.0.3:47920] client connect
+[13:25:51.855][192.168.0.3:47922] client connect
+[13:25:51.861][192.168.0.3:47928] client connect
+[13:25:51.865][192.168.0.3:47838] server connect t.co:443 (104.244.42.69:443)
+[13:25:51.872][192.168.0.3:47942] client connect
+[13:25:51.875][192.168.0.3:47958] client connect
+[13:25:51.878][192.168.0.3:47974] client connect
+[13:25:51.884][192.168.0.3:47984] client connect
+[13:25:51.899][192.168.0.3:47912] error establishing server connection: [Errno 11001] getaddrinfo failed
+[13:25:51.906][192.168.0.3:47844] server connect analytics.twitter.com:443 (104.244.42.67:443)
+[13:25:51.907][192.168.0.3:47996] client connect
+[13:25:51.909][192.168.0.3:47798] client disconnect
+[13:25:51.917][192.168.0.3:47860] client disconnect
+[13:25:51.918][192.168.0.3:47862] client disconnect
+[13:25:51.932][192.168.0.3:48008] client connect
+[13:25:51.937][192.168.0.3:47798] server disconnect www.clarity.ms:443 ([2620:1ec:46::34]:443)
+[13:25:51.940][192.168.0.3:47776] client disconnect
+[13:25:51.942][192.168.0.3:47788] client disconnect
+[13:25:51.942][192.168.0.3:47672] client disconnect
+[13:25:51.945][192.168.0.3:47724] client disconnect
+[13:25:51.955][192.168.0.3:47860] server disconnect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.956][192.168.0.3:47862] server disconnect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.960][192.168.0.3:47734] client disconnect
+[13:25:51.961][192.168.0.3:47710] client disconnect
+[13:25:51.963][192.168.0.3:47706] client disconnect
+[13:25:51.966][192.168.0.3:48024] client connect
+[13:25:51.978][192.168.0.3:47674] client disconnect
+[13:25:51.979][192.168.0.3:47778] client disconnect
+[13:25:51.980][192.168.0.3:47912] client disconnect
+[13:25:51.985][192.168.0.3:48038] client connect
+[13:25:51.987][192.168.0.3:47776] server disconnect ad.doubleclick.net:443 (142.250.78.230:443)
+[13:25:51.990][192.168.0.3:47788] server disconnect td.doubleclick.net:443 ([2800:3f0:4004:808::2002]:443)
+[13:25:51.993][192.168.0.3:47672] server disconnect www.googletagmanager.com:443 ([2800:3f0:4004:810::2008]:443)
+[13:25:51.996][192.168.0.3:47724] server disconnect assets.adobedtm.com:443 ([2600:1419:4600:690::1e80]:443)
+[13:25:52.011][192.168.0.3:48052] client connect
+[13:25:52.013][192.168.0.3:47734] server disconnect gum.criteo.com:443 ([2620:100:a001::c]:443)
+[13:25:52.014][192.168.0.3:47710] server disconnect connect.facebook.net:443 ([2a03:2880:f091:18:face:b00c:0:3]:443)
+[13:25:52.015][192.168.0.3:47706] server disconnect sslwidget.criteo.com:443 (74.119.119.150:443)
+[13:25:52.023][192.168.0.3:47758] client disconnect
+[13:25:52.024][192.168.0.3:47870] client disconnect
+[13:25:52.025][192.168.0.3:47922] server connect contextual.media.net:443 (2.21.84.27:443)
+[13:25:52.030][192.168.0.3:48064] client connect
+[13:25:52.037][192.168.0.3:47674] server disconnect adservice.google.com:443 ([2800:3f0:4004:806::2002]:443)
+[13:25:52.039][192.168.0.3:47778] server disconnect 8712732.fls.doubleclick.net:443 (142.251.135.38:443)
+[13:25:52.045][192.168.0.3:47814] client disconnect
+[13:25:52.046][192.168.0.3:48066] client connect
+[13:25:52.053][192.168.0.3:47898] server connect trends.revcontent.com:443 (174.129.223.21:443)
+[13:25:52.054][192.168.0.3:47888] server connect fledge.us.criteo.com:443 ([2620:100:a001::1]:443)
+[13:25:52.055][192.168.0.3:47974] server connect eb2.3lift.com:443 (52.223.22.214:443)
+[13:25:52.058][192.168.0.3:48074] client connect
+[13:25:52.062][192.168.0.3:47758] server disconnect typhoon.useinsider.com:443 ([2606:4700:7::a29f:853d]:443)
+[13:25:52.065][192.168.0.3:47870] server disconnect adservice.google.com:443 ([2800:3f0:4004:806::2002]:443)
+[13:25:52.071][192.168.0.3:47880] server connect measurement-api.criteo.com:443 ([2620:100:a001::]:443)
+[13:25:52.073][192.168.0.3:48082] client connect
+[13:25:52.079][192.168.0.3:47814] server disconnect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:25:52.082][192.168.0.3:47742] client disconnect
+[13:25:52.085][192.168.0.3:48088] client connect
+[13:25:52.098][192.168.0.3:47996] server connect c.bing.com:443 ([2620:1ec:c11::200]:443)
+[13:25:52.099][192.168.0.3:47914] server connect x.bidswitch.net:443 (35.211.178.172:443)
+[13:25:52.101][192.168.0.3:48102] client connect
+[13:25:52.109][192.168.0.3:47920] server connect ib.adnxs.com:443 (68.67.160.75:443)
+[13:25:52.111][192.168.0.3:47958] server connect criteo-sync.teads.tv:443 (95.101.105.116:443)
+[13:25:52.113][192.168.0.3:48118] client connect
+[13:25:52.116][192.168.0.3:47742] server disconnect carrier.useinsider.com:443 ([2606:4700:7::a29f:853d]:443)
+[13:25:52.135][192.168.0.3:48120] client connect
+[13:25:52.146][192.168.0.3:48132] client connect
+[13:25:52.151][192.168.0.3:47928] server connect pixel.rubiconproject.com:443 (69.173.151.100:443)
+[13:25:52.152][192.168.0.3:47942] server connect rtb-csync.smartadserver.com:443 (216.22.16.72:443)
+[13:25:52.154][192.168.0.3:48148] client connect
+[13:25:52.160][192.168.0.3:47984] server connect hb.yahoo.net:443 (201.17.30.150:443)
+[13:25:52.167][192.168.0.3:48162] client connect
+[13:25:52.177][192.168.0.3:48174] client connect
+[13:25:52.201][192.168.0.3:48188] client connect
+[13:25:52.203][192.168.0.3:48008] server connect gum.criteo.com:443 ([2620:100:a001::c]:443)
+[13:25:52.218][192.168.0.3:47822] client disconnect
+[13:25:52.228][192.168.0.3:47822] server disconnect prod-live-chat.sprinklr.com:443 (99.83.171.145:443)
+[13:25:52.235][192.168.0.3:47762] client disconnect
+[13:25:52.236][192.168.0.3:48192] client connect
+[13:25:52.251][192.168.0.3:47762] server disconnect hit.api.useinsider.com:443 ([2606:4700:7::a29f:863d]:443)
+[13:25:52.264][192.168.0.3:48038] server connect gum.criteo.com:443 ([2620:100:a001::c]:443)
+[13:25:52.265][192.168.0.3:48024] server connect c1.adform.net:443 (185.167.164.49:443)
+[13:25:52.344][192.168.0.3:48198] client connect
+[13:25:52.353][192.168.0.3:48188] client disconnect
+[13:25:52.364][192.168.0.3:48188] error establishing server connection: client disconnected
+[13:25:52.376][192.168.0.3:48082] server connect s.ad.smaato.net:443 ([2600:9000:20fa:4c00:1b:5138:8a40:93a1]:443)
+[13:25:52.378][192.168.0.3:48064] server connect match.sharethrough.com:443 (34.237.126.203:443)
+[13:25:52.379][192.168.0.3:48192] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:52.382][192.168.0.3:48120] server connect cm.g.doubleclick.net:443 (142.250.79.2:443)
+[13:25:52.409][192.168.0.3:48102] server connect ade.clmbtech.com:443 ([2600:1419:4600:d::211:a206]:443)
+[13:25:52.424][192.168.0.3:48052] server connect jadserve.postrelease.com:443 (35.155.157.206:443)
+[13:25:52.426][192.168.0.3:48174] server connect carrier.useinsider.com:443 ([2606:4700:7::a29f:853d]:443)
+[13:25:52.479][192.168.0.3:48088] server connect criteo-partners.tremorhub.com:443 ([2600:1f18:612b:4200:3a58:5513:3c98:
+1310]:443)
+[13:25:52.492][192.168.0.3:48118] server connect sync-criteo.ads.yieldmo.com:443 (54.85.98.15:443)
+[13:25:52.523][192.168.0.3:48148] server connect ads.stickyadstv.com:443 (38.71.2.235:443)
+[13:25:52.576][192.168.0.3:48132] server connect ad.360yield.com:443 (3.233.166.156:443)
+[13:25:52.578][192.168.0.3:48074] server connect visitor.omnitagjs.com:443 (57.128.114.222:443)
+[13:25:52.597][192.168.0.3:48162] server connect exchange.mediavine.com:443 (52.5.214.127:443)
+[13:25:52.611][192.168.0.3:48204] client connect
+[13:25:52.629][192.168.0.3:47984] client disconnect
+[13:25:52.640][192.168.0.3:48218] client connect
+[13:25:52.670][192.168.0.3:47838] client disconnect
+[13:25:52.690][192.168.0.3:48066] server connect sync.outbrain.com:443 (38.133.127.191:443)
+[13:25:52.709][192.168.0.3:47958] client disconnect
+[13:25:52.711][192.168.0.3:48226] client connect
+[13:25:52.716][192.168.0.3:47984] server disconnect hb.yahoo.net:443 (201.17.30.150:443)
+[13:25:52.734][192.168.0.3:48240] client connect
+[13:25:52.742][192.168.0.3:47838] server disconnect t.co:443 (104.244.42.69:443)
+[13:25:52.747][192.168.0.3:47922] client disconnect
+[13:25:52.758][192.168.0.3:48074] Server TLS handshake failed. connection closed
+[13:25:52.760][192.168.0.3:48248] client connect
+[13:25:52.769][192.168.0.3:47958] server disconnect criteo-sync.teads.tv:443 (95.101.105.116:443)
+[13:25:52.787][192.168.0.3:47888] client disconnect
+[13:25:52.796][192.168.0.3:48074] Unable to establish TLS connection with server (connection closed). Trying to establis
+h TLS with client anyway. If you plan to redirect requests away from this server, consider setting `connection_strategy`
+ to `lazy` to suppress early connections.
+[13:25:52.834][192.168.0.3:47996] client disconnect
+[13:25:52.841][192.168.0.3:48260] client connect
+[13:25:52.845][192.168.0.3:47922] server disconnect contextual.media.net:443 (2.21.84.27:443)
+[13:25:52.871][192.168.0.3:47844] client disconnect
+[13:25:52.875][192.168.0.3:48272] client connect
+[13:25:52.880][192.168.0.3:47888] server disconnect fledge.us.criteo.com:443 ([2620:100:a001::1]:443)
+[13:25:52.881][192.168.0.3:48074] server disconnect visitor.omnitagjs.com:443 (57.128.114.222:443)
+[13:25:52.896][192.168.0.3:47974] client disconnect
+[13:25:52.902][192.168.0.3:48284] client connect
+[13:25:52.911][192.168.0.3:47996] server disconnect c.bing.com:443 ([2620:1ec:c11::200]:443)
+[13:25:52.929][192.168.0.3:48288] client connect
+[13:25:52.932][192.168.0.3:47844] server disconnect analytics.twitter.com:443 (104.244.42.67:443)
+[13:25:52.941][192.168.0.3:47898] client disconnect
+[13:25:52.967][192.168.0.3:47974] server disconnect eb2.3lift.com:443 (52.223.22.214:443)
+[13:25:52.977][192.168.0.3:47942] client disconnect
+[13:25:52.981][192.168.0.3:48292] client connect
+[13:25:52.983][192.168.0.3:48226] server connect px.ads.linkedin.com:443 ([2620:1ec:21::14]:443)
+[13:25:53.008][192.168.0.3:48192] client disconnect
+[13:25:53.009][192.168.0.3:48240] server connect assets.adobedtm.com:443 ([2600:1419:4600:690::1e80]:443)
+[13:25:53.012][192.168.0.3:48308] client connect
+[13:25:53.020][192.168.0.3:47898] server disconnect trends.revcontent.com:443 (174.129.223.21:443)
+[13:25:53.035][192.168.0.3:48310] client connect
+[13:25:53.037][192.168.0.3:47942] server disconnect rtb-csync.smartadserver.com:443 (216.22.16.72:443)
+[13:25:53.041][192.168.0.3:47880] client disconnect
+[13:25:53.042][192.168.0.3:48082] client disconnect
+[13:25:53.063][192.168.0.3:48008] client disconnect
+[13:25:53.064][192.168.0.3:48218] server connect i.clarity.ms:443 (52.167.85.21:443)
+[13:25:53.066][192.168.0.3:48312] client connect
+[13:25:53.074][192.168.0.3:48192] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.080][192.168.0.3:48260] server connect px.ads.linkedin.com:443 ([2620:1ec:21::14]:443)
+[13:25:53.084][192.168.0.3:48324] client connect
+[13:25:53.092][192.168.0.3:48038] client disconnect
+[13:25:53.099][192.168.0.3:48338] client connect
+[13:25:53.101][192.168.0.3:48118] Client TLS handshake failed. The client disconnected during the handshake. If this hap
+pens consistently for sync-criteo.ads.yieldmo.com, this may indicate that the client does not trust the proxy's certific
+ate.
+[13:25:53.103][192.168.0.3:47880] server disconnect measurement-api.criteo.com:443 ([2620:100:a001::]:443)
+[13:25:53.104][192.168.0.3:48082] server disconnect s.ad.smaato.net:443 ([2600:9000:20fa:4c00:1b:5138:8a40:93a1]:443)
+[13:25:53.107][192.168.0.3:48008] server disconnect gum.criteo.com:443 ([2620:100:a001::c]:443)
+[13:25:53.123][192.168.0.3:48074] client disconnect
+[13:25:53.126][192.168.0.3:48272] server connect r.casalemedia.com:443 (172.64.151.101:443)
+[13:25:53.128][192.168.0.3:48346] client connect
+[13:25:53.142][192.168.0.3:48120] client disconnect
+[13:25:53.156][192.168.0.3:48348] client connect
+[13:25:53.158][192.168.0.3:48038] server disconnect gum.criteo.com:443 ([2620:100:a001::c]:443)
+[13:25:53.168][192.168.0.3:47928] client disconnect
+[13:25:53.170][192.168.0.3:47914] client disconnect
+[13:25:53.183][192.168.0.3:48288] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.184][192.168.0.3:48356] client connect
+[13:25:53.189][192.168.0.3:48118] client disconnect
+[13:25:53.195][192.168.0.3:48248] server connect i.liadm.com:443 (34.199.236.70:443)
+[13:25:53.196][192.168.0.3:48292] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.198][192.168.0.3:48358] client connect
+[13:25:53.208][192.168.0.3:48120] server disconnect cm.g.doubleclick.net:443 (142.250.79.2:443)
+[13:25:53.223][192.168.0.3:48364] client connect
+[13:25:53.225][192.168.0.3:47928] server disconnect pixel.rubiconproject.com:443 (69.173.151.100:443)
+[13:25:53.226][192.168.0.3:47914] server disconnect x.bidswitch.net:443 (35.211.178.172:443)
+[13:25:53.235][192.168.0.3:48308] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.236][192.168.0.3:48310] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.239][192.168.0.3:48118] server disconnect sync-criteo.ads.yieldmo.com:443 (54.85.98.15:443)
+[13:25:53.241][192.168.0.3:48148] client disconnect
+[13:25:53.248][192.168.0.3:48312] server connect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.265][192.168.0.3:48284] server connect sync-t1.taboola.com:443 (141.226.224.48:443)
+[13:25:53.276][192.168.0.3:48148] server disconnect ads.stickyadstv.com:443 (38.71.2.235:443)
+[13:25:53.321][192.168.0.3:48356] server connect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:25:53.322][192.168.0.3:48348] server connect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:25:53.347][192.168.0.3:48066] client disconnect
+[13:25:53.361][192.168.0.3:48288] Client TLS handshake failed. The client disconnected during the handshake. If this hap
+pens consistently for www.facebook.com, this may indicate that the client does not trust the proxy's certificate.
+[13:25:53.362][192.168.0.3:48066] server disconnect sync.outbrain.com:443 (38.133.127.191:443)
+[13:25:53.368][192.168.0.3:48346] server connect tags.bluekai.com:443 (95.101.41.66:443)
+[13:25:53.404][192.168.0.3:48288] client disconnect
+[13:25:53.423][192.168.0.3:48364] server connect images.samsung.com:443 (2.21.84.56:443)
+[13:25:53.425][192.168.0.3:48324] server connect analytics.pangle-ads.com:443 (104.71.143.211:443)
+[13:25:53.451][192.168.0.3:48288] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.452][192.168.0.3:48308] client disconnect
+[13:25:53.452][192.168.0.3:48310] client disconnect
+[13:25:53.455][192.168.0.3:48312] client disconnect
+[13:25:53.472][192.168.0.3:48372] client connect
+[13:25:53.482][192.168.0.3:48358] server connect measurement-api.criteo.com:443 ([2620:100:a001::]:443)
+[13:25:53.491][192.168.0.3:48388] client connect
+[13:25:53.492][192.168.0.3:48338] server connect mug.criteo.com:443 (74.119.119.139:443)
+[13:25:53.494][192.168.0.3:48348] Client TLS handshake failed. The client disconnected during the handshake. If this hap
+pens consistently for analytics.tiktok.com, this may indicate that the client does not trust the proxy's certificate.
+[13:25:53.495][192.168.0.3:48308] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.499][192.168.0.3:48310] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.503][192.168.0.3:48312] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:53.553][192.168.0.3:48348] client disconnect
+[13:25:53.588][192.168.0.3:48348] server disconnect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:25:53.590][192.168.0.3:48392] client connect
+[13:25:53.609][192.168.0.3:48388] server connect images.samsung.com:443 (2.21.84.56:443)
+[13:25:53.633][192.168.0.3:48388] client disconnect
+[13:25:53.636][192.168.0.3:48406] client connect
+[13:25:53.658][192.168.0.3:48372] server connect resources.digital-cloud-west.medallia.com:443 (151.101.177.230:443)
+[13:25:53.674][192.168.0.3:48388] server disconnect images.samsung.com:443 (2.21.84.56:443)
+[13:25:53.708][192.168.0.3:48418] client connect
+[13:25:53.742][192.168.0.3:48406] server connect bat.bing.com:443 ([2620:1ec:c11::200]:443)
+[13:25:53.781][192.168.0.3:48418] server connect px4.ads.linkedin.com:443 (13.107.42.14:443)
+[13:25:53.782][192.168.0.3:48392] server connect i.clarity.ms:443 (52.167.85.21:443)
+[13:25:53.910][192.168.0.3:48430] client connect
+[13:25:54.012][192.168.0.3:48444] client connect
+[13:25:54.014][192.168.0.3:48430] server connect consent.trustarc.com:443 (52.84.83.70:443)
+[13:25:54.050][192.168.0.3:48450] client connect
+[13:25:54.077][192.168.0.3:48444] server connect udc-neb.kampyle.com:443 (35.241.45.82:443)
+[13:25:54.111][192.168.0.3:48088] client disconnect
+[13:25:54.113][192.168.0.3:48454] client connect
+[13:25:54.116][192.168.0.3:48088] server disconnect criteo-partners.tremorhub.com:443 ([2600:1f18:612b:4200:3a58:5513:3c
+98:1310]:443)
+[13:25:54.132][192.168.0.3:48450] server connect consent.truste.com:443 (3.163.10.91:443)
+[13:25:54.169][192.168.0.3:48454] server connect resources.digital-cloud-west.medallia.com:443 (151.101.177.230:443)
+[13:25:54.260][192.168.0.3:48162] client disconnect
+[13:25:54.262][192.168.0.3:48162] server disconnect exchange.mediavine.com:443 (52.5.214.127:443)
+[13:25:54.277][192.168.0.3:48458] client connect
+[13:25:54.314][192.168.0.3:48458] server connect www.clarity.ms:443 ([2620:1ec:46::34]:443)
+[13:25:54.436][192.168.0.3:48392] client disconnect
+[13:25:54.445][192.168.0.3:48392] server disconnect i.clarity.ms:443 (52.167.85.21:443)
+[13:25:54.446][192.168.0.3:48466] client connect
+[13:25:54.499][192.168.0.3:48466] server connect www.dwin1.com:443 ([2600:9000:236a:ac00:f:8ce2:fb80:93a1]:443)
+[13:25:54.841][192.168.0.3:48248] client disconnect
+[13:25:54.843][192.168.0.3:48248] server disconnect i.liadm.com:443 (34.199.236.70:443)
+[13:25:54.844][192.168.0.3:48480] client connect
+[13:25:54.866][192.168.0.3:48218] client disconnect
+[13:25:54.868][192.168.0.3:48218] server disconnect i.clarity.ms:443 (52.167.85.21:443)
+[13:25:54.872][192.168.0.3:48494] client connect
+[13:25:54.921][192.168.0.3:48052] client disconnect
+[13:25:54.924][192.168.0.3:48052] server disconnect jadserve.postrelease.com:443 (35.155.157.206:443)
+[13:25:54.932][192.168.0.3:48506] client connect
+[13:25:54.953][192.168.0.3:48480] server connect bossanova.etagdigital.com.br:443 (4.228.85.180:443)
+[13:25:54.957][192.168.0.3:48494] server connect static.hotjar.com:443 (65.8.214.8:443)
+[13:25:55.001][192.168.0.3:48272] client disconnect
+[13:25:55.003][192.168.0.3:48272] server disconnect r.casalemedia.com:443 (172.64.151.101:443)
+[13:25:55.021][192.168.0.3:48508] client connect
+[13:25:55.101][192.168.0.3:48506] server connect trc.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:25:55.130][192.168.0.3:48508] server connect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:810::200a]:443)
+
+[13:25:55.297][192.168.0.3:48284] client disconnect
+[13:25:55.301][192.168.0.3:48284] server disconnect sync-t1.taboola.com:443 (141.226.224.48:443)
+[13:25:55.303][192.168.0.3:48520] client connect
+[13:25:55.365][192.168.0.3:48520] server connect pubads.g.doubleclick.net:443 ([2800:3f0:4004:810::2002]:443)
+[13:25:55.517][192.168.0.3:48346] client disconnect
+[13:25:55.519][192.168.0.3:48346] server disconnect tags.bluekai.com:443 (95.101.41.66:443)
+[13:25:55.522][192.168.0.3:48524] client connect
+[13:25:55.707][192.168.0.3:48524] server connect checkip.amazonaws.com:443 (34.236.115.13:443)
+[13:25:55.821][192.168.0.3:48102] client disconnect
+[13:25:55.828][192.168.0.3:48102] server disconnect ade.clmbtech.com:443 ([2600:1419:4600:d::211:a206]:443)
+[13:25:55.836][192.168.0.3:48174] client disconnect
+[13:25:55.840][192.168.0.3:48364] client disconnect
+[13:25:55.842][192.168.0.3:48024] client disconnect
+[13:25:55.853][192.168.0.3:48292] client disconnect
+[13:25:55.856][192.168.0.3:48444] client disconnect
+[13:25:55.858][192.168.0.3:48240] client disconnect
+[13:25:55.860][192.168.0.3:47920] client disconnect
+[13:25:55.871][192.168.0.3:48358] client disconnect
+[13:25:55.873][192.168.0.3:48356] client disconnect
+[13:25:55.874][192.168.0.3:48430] client disconnect
+[13:25:55.876][192.168.0.3:48458] client disconnect
+[13:25:55.882][192.168.0.3:48536] client connect
+[13:25:55.885][192.168.0.3:48174] server disconnect carrier.useinsider.com:443 ([2606:4700:7::a29f:853d]:443)
+[13:25:55.886][192.168.0.3:48364] server disconnect images.samsung.com:443 (2.21.84.56:443)
+[13:25:55.889][192.168.0.3:48024] server disconnect c1.adform.net:443 (185.167.164.49:443)
+[13:25:55.896][192.168.0.3:48508] client disconnect
+[13:25:55.897][192.168.0.3:48520] client disconnect
+[13:25:55.898][192.168.0.3:48480] client disconnect
+[13:25:55.901][192.168.0.3:48494] client disconnect
+[13:25:55.904][192.168.0.3:48132] client disconnect
+[13:25:55.907][192.168.0.3:48466] client disconnect
+[13:25:55.911][192.168.0.3:48372] client disconnect
+[13:25:55.914][192.168.0.3:48506] client disconnect
+[13:25:55.917][192.168.0.3:48450] client disconnect
+[13:25:55.920][192.168.0.3:48454] client disconnect
+[13:25:55.925][192.168.0.3:48292] server disconnect www.facebook.com:443 ([2a03:2880:f17c:81:face:b00c:0:25de]:443)
+[13:25:55.926][192.168.0.3:48444] server disconnect udc-neb.kampyle.com:443 (35.241.45.82:443)
+[13:25:55.930][192.168.0.3:48240] server disconnect assets.adobedtm.com:443 ([2600:1419:4600:690::1e80]:443)
+[13:25:55.933][192.168.0.3:47920] server disconnect ib.adnxs.com:443 (68.67.160.75:443)
+[13:25:55.945][192.168.0.3:48260] client disconnect
+[13:25:55.946][192.168.0.3:48338] client disconnect
+[13:25:55.947][192.168.0.3:48418] client disconnect
+[13:25:55.950][192.168.0.3:48324] client disconnect
+[13:25:55.953][192.168.0.3:48226] client disconnect
+[13:25:55.956][192.168.0.3:48064] client disconnect
+[13:25:55.959][192.168.0.3:48406] client disconnect
+[13:25:55.964][192.168.0.3:48358] server disconnect measurement-api.criteo.com:443 ([2620:100:a001::]:443)
+[13:25:55.965][192.168.0.3:48356] server disconnect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:25:55.969][192.168.0.3:48430] server disconnect consent.trustarc.com:443 (52.84.83.70:443)
+[13:25:55.972][192.168.0.3:48458] server disconnect www.clarity.ms:443 ([2620:1ec:46::34]:443)
+[13:25:55.985][192.168.0.3:48508] server disconnect optimizationguide-pa.googleapis.com:443 ([2800:3f0:4004:810::200a]:4
+43)
+[13:25:55.985][192.168.0.3:48520] server disconnect pubads.g.doubleclick.net:443 ([2800:3f0:4004:810::2002]:443)
+[13:25:55.986][192.168.0.3:48480] server disconnect bossanova.etagdigital.com.br:443 (4.228.85.180:443)
+[13:25:55.989][192.168.0.3:48494] server disconnect static.hotjar.com:443 (65.8.214.8:443)
+[13:25:55.992][192.168.0.3:48132] server disconnect ad.360yield.com:443 (3.233.166.156:443)
+[13:25:55.995][192.168.0.3:48466] server disconnect www.dwin1.com:443 ([2600:9000:236a:ac00:f:8ce2:fb80:93a1]:443)
+[13:25:55.999][192.168.0.3:48372] server disconnect resources.digital-cloud-west.medallia.com:443 (151.101.177.230:443)
+[13:25:56.002][192.168.0.3:48506] server disconnect trc.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:25:56.005][192.168.0.3:48450] server disconnect consent.truste.com:443 (3.163.10.91:443)
+[13:25:56.009][192.168.0.3:48454] server disconnect resources.digital-cloud-west.medallia.com:443 (151.101.177.230:443)
+[13:25:56.017][192.168.0.3:48544] client connect
+[13:25:56.022][192.168.0.3:48260] server disconnect px.ads.linkedin.com:443 ([2620:1ec:21::14]:443)
+[13:25:56.023][192.168.0.3:48338] server disconnect mug.criteo.com:443 (74.119.119.139:443)
+[13:25:56.024][192.168.0.3:48418] server disconnect px4.ads.linkedin.com:443 (13.107.42.14:443)
+[13:25:56.024][192.168.0.3:48324] server disconnect analytics.pangle-ads.com:443 (104.71.143.211:443)
+[13:25:56.030][192.168.0.3:48226] server disconnect px.ads.linkedin.com:443 ([2620:1ec:21::14]:443)
+[13:25:56.033][192.168.0.3:48064] server disconnect match.sharethrough.com:443 (34.237.126.203:443)
+[13:25:56.036][192.168.0.3:48406] server disconnect bat.bing.com:443 ([2620:1ec:c11::200]:443)
+[13:25:56.048][192.168.0.3:48560] client connect
+[13:25:56.053][192.168.0.3:48564] client connect
+[13:25:56.057][192.168.0.3:48578] client connect
+[13:25:56.059][192.168.0.3:48586] client connect
+[13:25:56.089][192.168.0.3:48564] server connect assets.adobedtm.com:443 ([2600:1419:4600:690::1e80]:443)
+[13:25:56.091][192.168.0.3:48544] server connect trc.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:25:56.127][192.168.0.3:48560] server connect amplify.outbrain.com:443 (2.21.85.132:443)
+[13:25:56.129][192.168.0.3:48578] server connect cdn.taboola.com:443 (151.101.177.44:443)
+[13:25:56.187][192.168.0.3:48536] server connect i.clarity.ms:443 (52.167.85.21:443)
+[13:25:56.198][192.168.0.3:48586] server connect sync.intentiq.com:443 (18.67.145.98:443)
+[13:25:56.301][192.168.0.3:48602] client connect
+[13:25:56.321][192.168.0.3:48614] client connect
+[13:25:56.336][192.168.0.3:48628] client connect
+[13:25:56.342][192.168.0.3:48634] client connect
+[13:25:56.345][192.168.0.3:48638] client connect
+[13:25:56.349][192.168.0.3:48644] client connect
+[13:25:56.360][192.168.0.3:48658] client connect
+[13:25:56.363][192.168.0.3:48602] server connect pips.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:25:56.394][192.168.0.3:48658] server connect trc.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:25:56.400][192.168.0.3:48670] client connect
+[13:25:56.425][192.168.0.3:48644] server connect wave.outbrain.com:443 (2.21.85.132:443)
+[13:25:56.426][192.168.0.3:48634] server connect ct.pinterest.com:443 (23.203.136.202:443)
+[13:25:56.458][192.168.0.3:48670] server connect pubads.g.doubleclick.net:443 ([2800:3f0:4004:810::2002]:443)
+[13:25:56.501][192.168.0.3:48680] client connect
+[13:25:56.555][192.168.0.3:48628] server connect secure.adnxs.com:443 (68.67.179.87:443)
+[13:25:56.558][192.168.0.3:48692] client connect
+[13:25:56.575][192.168.0.3:48638] server connect tr.outbrain.com:443 (66.225.223.63:443)
+[13:25:56.576][192.168.0.3:48614] server connect tr.outbrain.com:443 (66.225.223.63:443)
+[13:25:56.588][192.168.0.3:48696] client connect
+[13:25:56.645][192.168.0.3:48696] server connect resources.digital-cloud-west.medallia.com:443 (151.101.177.230:443)
+[13:25:56.732][192.168.0.3:48680] server connect ce.lijit.com:443 (3.227.144.51:443)
+[13:25:56.773][192.168.0.3:48692] server connect cds.taboola.com:443 (141.226.224.32:443)
+[13:25:57.319][192.168.0.3:48710] client connect
+[13:25:57.438][192.168.0.3:48692] 141.226.224.32:443: HTTP/2 protocol error: Invalid input ConnectionInputs.RECV_HEADERS
+ in state ConnectionState.CLOSED
+[13:25:57.452][192.168.0.3:48692] server disconnect cds.taboola.com:443 (141.226.224.32:443)
+[13:25:57.608][192.168.0.3:48710] server connect visitor.omnitagjs.com:443 (57.128.112.22:443)
+[13:26:00.469][192.168.0.3:48536] server disconnect i.clarity.ms:443 (52.167.85.21:443)
+[13:26:01.310][192.168.0.3:48524] server disconnect checkip.amazonaws.com:443 (34.236.115.13:443)
+[13:26:04.246][192.168.0.3:48638] server disconnect tr.outbrain.com:443 (66.225.223.63:443)
+[13:26:04.263][192.168.0.3:48614] server disconnect tr.outbrain.com:443 (66.225.223.63:443)
+[13:26:04.309][192.168.0.3:49936] client connect
+[13:26:04.463][192.168.0.3:49936] server connect i.clarity.ms:443 (52.167.85.21:443)
+[13:26:04.469][192.168.0.3:49948] client connect
+[13:26:04.511][192.168.0.3:49948] server connect images.samsung.com:443 (2.21.84.56:443)
+[13:26:04.966][192.168.0.3:49914] client connect
+[13:26:05.061][192.168.0.3:49914] server connect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:26:05.226][192.168.0.3:49924] client connect
+[13:26:05.260][192.168.0.3:49924] server connect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:26:05.271][192.168.0.3:48638] client disconnect
+[13:26:05.273][192.168.0.3:48536] client disconnect
+[13:26:05.276][192.168.0.3:48602] client disconnect
+[13:26:05.280][192.168.0.3:48658] client disconnect
+[13:26:05.281][192.168.0.3:48544] client disconnect
+[13:26:05.282][192.168.0.3:48670] client disconnect
+[13:26:05.285][192.168.0.3:48614] client disconnect
+[13:26:05.288][192.168.0.3:48560] client disconnect
+[13:26:05.296][192.168.0.3:48696] client disconnect
+[13:26:05.297][192.168.0.3:48644] client disconnect
+[13:26:05.298][192.168.0.3:48680] client disconnect
+[13:26:05.301][192.168.0.3:48524] client disconnect
+[13:26:05.305][192.168.0.3:48602] server disconnect pips.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:26:05.310][192.168.0.3:48586] client disconnect
+[13:26:05.312][192.168.0.3:48658] server disconnect trc.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:26:05.313][192.168.0.3:48544] server disconnect trc.taboola.com:443 ([2a04:4e42:2a::300]:443)
+[13:26:05.316][192.168.0.3:48670] server disconnect pubads.g.doubleclick.net:443 ([2800:3f0:4004:810::2002]:443)
+[13:26:05.319][192.168.0.3:48560] server disconnect amplify.outbrain.com:443 (2.21.85.132:443)
+[13:26:05.328][192.168.0.3:48696] server disconnect resources.digital-cloud-west.medallia.com:443 (151.101.177.230:443)
+[13:26:05.329][192.168.0.3:48644] server disconnect wave.outbrain.com:443 (2.21.85.132:443)
+[13:26:05.330][192.168.0.3:48680] server disconnect ce.lijit.com:443 (3.227.144.51:443)
+[13:26:05.336][192.168.0.3:48586] server disconnect sync.intentiq.com:443 (18.67.145.98:443)
+[13:26:05.498][192.168.0.3:49892] client connect
+[13:26:05.526][192.168.0.3:48634] client disconnect
+[13:26:05.531][192.168.0.3:48692] client disconnect
+[13:26:05.534][192.168.0.3:48634] server disconnect ct.pinterest.com:443 (23.203.136.202:443)
+[13:26:05.537][192.168.0.3:48578] client disconnect
+[13:26:05.549][192.168.0.3:48628] client disconnect
+[13:26:05.552][192.168.0.3:48578] server disconnect cdn.taboola.com:443 (151.101.177.44:443)
+[13:26:05.556][192.168.0.3:48198] client disconnect
+[13:26:05.559][192.168.0.3:48198] error establishing server connection: client disconnected
+[13:26:05.560][192.168.0.3:48628] server disconnect secure.adnxs.com:443 (68.67.179.87:443)
+[13:26:05.591][192.168.0.3:49892] server connect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:26:05.753][192.168.0.3:48204] client disconnect
+[13:26:05.756][192.168.0.3:48204] error establishing server connection: client disconnected
+[13:26:05.763][192.168.0.3:49904] client connect
+[13:26:05.782][192.168.0.3:48564] client disconnect
+[13:26:05.787][192.168.0.3:48564] server disconnect assets.adobedtm.com:443 ([2600:1419:4600:690::1e80]:443)
+[13:26:05.792][192.168.0.3:49904] server connect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:26:06.312][192.168.0.3:48722] client connect
+[13:26:06.457][192.168.0.3:48722] server connect i.clarity.ms:443 (52.167.85.21:443)
+[13:26:06.557][192.168.0.3:48728] client connect
+[13:26:06.691][192.168.0.3:48728] server connect i.clarity.ms:443 (52.167.85.21:443)
+[13:26:07.335][192.168.0.3:48738] client connect
+[13:26:07.365][192.168.0.3:48738] server connect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:26:07.582][192.168.0.3:49890] client connect
+[13:26:07.606][192.168.0.3:49890] server connect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:26:15.230][192.168.0.3:49936] server disconnect i.clarity.ms:443 (52.167.85.21:443)
+[13:26:15.896][192.168.0.3:49904] server disconnect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:26:16.245][192.168.0.3:49936] server connect i.clarity.ms:443 (52.167.85.21:443)
+[13:26:20.550][192.168.0.3:49936] server disconnect i.clarity.ms:443 (52.167.85.21:443)
+[13:26:37.433][192.168.0.3:56792] client connect
+[13:26:37.488][192.168.0.3:56792] server connect graph.facebook.com:443 ([2a03:2880:f091:19:face:b00c:0:2]:443)
+[13:26:37.727][192.168.0.3:56792] Client TLS handshake failed. The client does not trust the proxy's certificate for gra
+ph.facebook.com (OpenSSL Error([('SSL routines', '', 'sslv3 alert certificate unknown')]))
+[13:26:37.731][192.168.0.3:56792] client disconnect
+[13:26:37.737][192.168.0.3:56792] server disconnect graph.facebook.com:443 ([2a03:2880:f091:19:face:b00c:0:2]:443)
+[13:27:15.763][192.168.0.3:39794] client disconnect
+[13:27:15.764][192.168.0.3:39794] server disconnect samsungrum.beusable.net:443 (13.209.172.100:443)
+[13:28:05.846][192.168.0.3:49892] server disconnect analytics.tiktok.com:443 (2.17.162.18:443)
+[13:28:10.102][192.168.0.3:49948] server disconnect images.samsung.com:443 (2.21.84.56:443)
+[13:30:05.421][192.168.0.3:49924] [2800:3f0:4004:806::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:30:05.425][192.168.0.3:49924] server disconnect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:30:06.394][192.168.0.3:49914] [2800:3f0:4004:806::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:30:06.399][192.168.0.3:49914] server disconnect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:30:07.733][192.168.0.3:49890] [2800:3f0:4004:806::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:30:07.737][192.168.0.3:49890] server disconnect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
+[13:30:14.278][192.168.0.3:48738] [2800:3f0:4004:806::200e]:443: HTTP/2 protocol error: Invalid input ConnectionInputs.R
+ECV_PING in state ConnectionState.CLOSED
+[13:30:14.283][192.168.0.3:48738] server disconnect clients4.google.com:443 ([2800:3f0:4004:806::200e]:443)
