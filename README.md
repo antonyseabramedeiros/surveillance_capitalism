@@ -1,0 +1,2 @@
+# surveillance_capitalism
+Surveillance Capitalism empirical evidences
