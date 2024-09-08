@@ -7,4 +7,4 @@ Surveillance Capitalism empirical evidences
 2) Capturas
    Arquivos .png
 3) Evidências
-   Arquivos .txt
+   Arquivos data e flow.txt
